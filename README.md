@@ -61,6 +61,10 @@ jupyter notebook BloodMNIST_Classification_Analysis.ipynb
 
 If you wish to contribute to this project, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+## 10. License
+
+This project is licensed under the [MIT License](LICENSE).
+
 Feel free to explore, use, and contribute to this project. If you encounter any issues or have suggestions, please open an issue.
 
 Happy coding!
